@@ -1,6 +1,8 @@
 package java01;
-public class greet {
-public static void main(String[] args) {
+public class greet 
+{
+public static void main(String[] args) 
+{
 System.out.println("Welcome to JAVA programming");
 }
 }
